@@ -1,0 +1,10 @@
+{
+    "platformSlantLeftData":[
+        {"x": 600,"y":200},
+        {"x": 800,"y":200}
+    ],
+    "platformSlantRightData":[
+        {"x": 500,"y":200},
+        {"x": 1300,"y":400}
+    ]
+}
